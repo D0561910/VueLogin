@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Reference
+[Learn from okta website](https://developer.okta.com/blog/2020/05/15/vue-login)
